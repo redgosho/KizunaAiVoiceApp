@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="kizuna_ai">
+        <item>@drawable/kizuna_ai_saytime</item>
+        <item>@drawable/ai1</item>
+        <item>@drawable/ai2</item>
+        <item>@drawable/ai3</item>
+    </array>
+</resources>
