@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/KizunaAiVoiceApp.iml" filepath="$PROJECT_DIR$/KizunaAiVoiceApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/musicbox.iml" filepath="$PROJECT_DIR$/musicbox.iml" />
+      <module fileurl="file://C:\Users\redgosho\AndroidStudioProjects\KizunaAiVoiceApp\musicbox.iml" filepath="C:\Users\redgosho\AndroidStudioProjects\KizunaAiVoiceApp\musicbox.iml" />
     </modules>
   </component>
 </project>

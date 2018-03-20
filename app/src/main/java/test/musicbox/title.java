@@ -21,7 +21,7 @@ public class title extends AppCompatActivity {
     // タッチイベント（画面タッチを感知する）
     public boolean onTouchEvent(MotionEvent event) {
 
-        Intent intent = new Intent(this,MainActivity.class); // 画面指定
+        Intent intent = new Intent(this,VoiceTypeChoice.class); // 画面指定
         startActivity(intent);
 
         return super.onTouchEvent(event);
